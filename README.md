@@ -1,2 +1,2 @@
 # Linear-regression-project
-property price analysis
+property price analysis project
